@@ -34,7 +34,7 @@ const CONFIG = {
     github: {
       display: true, // Display GitHub projects?
       header: 'Github Projects',
-      mode: 'automatic', // Mode can be: 'automatic' or 'manual'
+      mode: 'manual', // Mode can be: 'automatic' or 'manual'
       automatic: {
         sortBy: 'stars', // Sort projects by 'stars' or 'updated'
         limit: 6, // How many projects to display.
@@ -45,7 +45,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['oricha/gitportfolio'], // List of repository names to display. example: ['oricha/my-project1', 'oricha/my-project2']
+        projects: ['oricha/recicar','oricha/lambda-password-strenght','oricha/swiss_army_knife','oricha/lambda-password-strenght','oricha/lambda-password-strenght','oricha/lambda-password-strenght'], // List of repository names to display. example: ['oricha/my-project1', 'oricha/my-project2']
       },
     },
     external: {
@@ -71,10 +71,10 @@ const CONFIG = {
       ],
     },
   },
-  seo: { title: 'Portfolio of Ariful Alam', description: '', imageURL: '' },
+  seo: { title: 'Portfolio of Karel Muñiz Perdomo', description: '', imageURL: '' },
   social: {
-    linkedin: 'ariful-alam',
-    x: 'arif_szn',
+    linkedin: 'oricha',
+    x: 'oricha',
     mastodon: 'oricha@mastodon.social',
     researchGate: '',
     facebook: '',
@@ -90,28 +90,24 @@ const CONFIG = {
     stackoverflow: '', // example: '1/jeff-atwood'
     discord: '',
     telegram: '',
-    website: 'https://www.oricha.com',
+    website: 'https://www.karelmuniz.com',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'oricha@gmail.com',
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://karelmuniz.com/CV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
+    'Java',
+    'Spring',
+    'AWS',
     'React.js',
     'Node.js',
-    'Nest.js',
+    'K8s',
     'MySQL',
     'PostgreSQL',
-    'Git',
     'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
     'Tailwind',
   ],
   experiences: [
@@ -164,11 +160,11 @@ const CONFIG = {
   // Track visitor interaction and behavior. https://www.hotjar.com
   hotjar: { id: '', snippetVersion: 6 },
   themeConfig: {
-    defaultTheme: 'lofi',
+    defaultTheme: 'dark',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
-    disableSwitch: false,
+    disableSwitch: true,
 
     // Should use the prefers-color-scheme media-query,
     // using user system preferences, instead of the hardcoded defaultTheme
