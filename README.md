@@ -6,31 +6,31 @@
   <h4 align="center">Easy to use automatic portfolio builder for every GitHub user!</h4>
 
   <p align="center">
-    <a href="https://codeclimate.com/github/arifszn/gitprofile/maintainability"><img src="https://api.codeclimate.com/v1/badges/c60f42d7d0b61bd33e98/maintainability" /></a>
-    <a href="https://github.com/arifszn/gitprofile/actions/workflows/deploy.yml"><img src="https://github.com/arifszn/gitprofile/actions/workflows/deploy.yml/badge.svg" /></a>
-    <a href="https://github.com/arifszn/gitprofile/issues"><img src="https://img.shields.io/github/issues/arifszn/gitprofile"/></a>
-    <a href="https://github.com/arifszn/gitprofile/stargazers"><img src="https://img.shields.io/github/stars/arifszn/gitprofile"/></a>
-    <a href="https://github.com/arifszn/gitprofile/network/members"><img src="https://img.shields.io/github/forks/arifszn/gitprofile"/></a>
-    <a href="https://github.com/arifszn/gitprofile/commits/main"><img src="https://img.shields.io/github/last-commit/arifszn/gitprofile/main"/></a>
-    <a href="https://github.com/arifszn/gitprofile/blob/main/CONTRIBUTING.md"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"/></a>
-    <a href="https://github.com/arifszn/gitprofile/blob/main/LICENSE"><img src="https://img.shields.io/github/license/arifszn/gitprofile"/></a>
+    <a href="https://codeclimate.com/github/oricha/gitportfolio/maintainability"><img src="https://api.codeclimate.com/v1/badges/c60f42d7d0b61bd33e98/maintainability" /></a>
+    <a href="https://github.com/oricha/gitportfolio/actions/workflows/deploy.yml"><img src="https://github.com/oricha/gitportfolio/actions/workflows/deploy.yml/badge.svg" /></a>
+    <a href="https://github.com/oricha/gitportfolio/issues"><img src="https://img.shields.io/github/issues/oricha/gitportfolio"/></a>
+    <a href="https://github.com/oricha/gitportfolio/stargazers"><img src="https://img.shields.io/github/stars/oricha/gitportfolio"/></a>
+    <a href="https://github.com/oricha/gitportfolio/network/members"><img src="https://img.shields.io/github/forks/oricha/gitportfolio"/></a>
+    <a href="https://github.com/oricha/gitportfolio/commits/main"><img src="https://img.shields.io/github/last-commit/oricha/gitportfolio/main"/></a>
+    <a href="https://github.com/oricha/gitportfolio/blob/main/CONTRIBUTING.md"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"/></a>
+    <a href="https://github.com/oricha/gitportfolio/blob/main/LICENSE"><img src="https://img.shields.io/github/license/oricha/gitportfolio"/></a>
   </p>
 
   <p align="center">
-    <a href="https://arifszn.github.io/gitprofile">View Demo</a>
+    <a href="https://oricha.github.io/gitportfolio">View Demo</a>
     ·
-    <a href="https://github.com/arifszn/gitprofile/issues">Report Bug</a>
+    <a href="https://github.com/oricha/gitportfolio/issues">Report Bug</a>
     ·
-    <a href="https://github.com/arifszn/gitprofile/discussions">Request Feature</a>
+    <a href="https://github.com/oricha/gitportfolio/discussions">Request Feature</a>
   </p>
 </p>
 
 <p align="center">
-  <a href="https://arifszn.github.io/gitprofile">
-    <img src="https://github.com/arifszn/gitprofile/assets/45073703/eb6c38a4-ac92-4006-869b-e4e24f6f5cf6" alt="Preview" width="60%"/>
+  <a href="https://oricha.github.io/gitportfolio">
+    <img src="https://github.com/oricha/gitportfolio/assets/45073703/eb6c38a4-ac92-4006-869b-e4e24f6f5cf6" alt="Preview" width="60%"/>
   </a>
   <br/>
-  <a href="#arifszn"><img src="https://github.com/arifszn/gitprofile/assets/45073703/4d2ccd45-e566-4743-bf61-cadc03ece54c" width="50%" alt="Shadow"/></a>
+  <a href="#oricha"><img src="https://github.com/oricha/gitportfolio/assets/45073703/4d2ccd45-e566-4743-bf61-cadc03ece54c" width="50%" alt="Shadow"/></a>
 </p>
 
 **GitProfile** is a powerful portfolio builder that allows you to create a stunning and personalized portfolio site in minutes, even if you have no coding experience. Simply provide your GitHub username, and GitProfile will automatically generate a portfolio. Best of all, you can easily deploy your portfolio to GitHub Pages with just a few clicks, making it accessible to the world in no time.
@@ -53,10 +53,10 @@
 ✓ [Publication Section](#publications)  
 ✓ [Blog Posts Section](#blog-posts)
 
-To view a live example, **[click here](https://arifszn.github.io/gitprofile)**.
+To view a live example, **[click here](https://oricha.github.io/gitportfolio)**.
 
 <p align="center">
-  <img src="https://github.com/arifszn/gitprofile/assets/45073703/406e8368-415a-42ef-89c5-d43cc8bbeb19" alt="Themes">
+  <img src="https://github.com/oricha/gitportfolio/assets/45073703/406e8368-415a-42ef-89c5-d43cc8bbeb19" alt="Themes">
 </p>
 
 ## 🛠 Installation & Setup
@@ -70,30 +70,30 @@ There are two ways to use **GitProfile**. Use any.
 
 These instructions will get you a copy of the project and deploy your portfolio online using GitHub Pages!
 
-- **Fork repo:** Click [here](https://github.com/arifszn/gitprofile/fork) to fork the repo so you have your own project to customize. A "fork" is a copy of a repository.
+- **Fork repo:** Click [here](https://github.com/oricha/gitportfolio/fork) to fork the repo so you have your own project to customize. A "fork" is a copy of a repository.
 - **Rename repo:**
   - If you want to host your portfolio at `https://<USERNAME>.github.io`, rename your forked repository to `username.github.io` in GitHub, where `username` is your GitHub username (or organization name).
   - If you want to host your portfolio at `https://<USERNAME>.github.io/<REPO_NAME>` (e.g. `https://<USERNAME>.github.io/portfolio`), rename your forked repository to `<REPO_NAME>` (e.g. `portfolio`) in GitHub.
 - **Enable workflows:** Go to your repo's **Actions** tab and enable workflows.
 
-  ![Workflows](https://github.com/arifszn/gitprofile/assets/45073703/7e82f7d4-900c-4cb9-83f9-bcaa1ca2b910)
+  ![Workflows](https://github.com/oricha/gitportfolio/assets/45073703/7e82f7d4-900c-4cb9-83f9-bcaa1ca2b910)
 
-- **Base Value:** Open `gitprofile.config.ts`, and change `base`'s value.
+- **Base Value:** Open `gitportfolio.config.ts`, and change `base`'s value.
   - If you are deploying to `https://<USERNAME>.github.io`, set `base` to `'/'`.
 
   - If you are deploying to `https://<USERNAME>.github.io/<REPO_NAME>` (e.g. `https://<USERNAME>.github.io/portfolio`), then set `base` to `'/<REPO_NAME>/'` (e.g. `'/portfolio/'`).
 
   ```ts
-  // gitprofile.config.ts
+  // gitportfolio.config.ts
   {
     base: '/',
     // ...
   }
   ```
 
-- **Commit the changes:** Now commit to your **main** branch with your changes. Wait a few minutes so that the CI/CD pipeline can publish your website to GitHub Pages. You can check the progress in the [Actions](https://github.com/arifszn/gitprofile/actions) tab.
+- **Commit the changes:** Now commit to your **main** branch with your changes. Wait a few minutes so that the CI/CD pipeline can publish your website to GitHub Pages. You can check the progress in the [Actions](https://github.com/oricha/gitportfolio/actions) tab.
 
-Your portfolio website will be live shortly. Any time you commit a change to the **main** branch, the website will be automatically updated. If you face any issue viewing the website, double-check the `base` value in the `gitprofile.config.ts` file. Also, check if **Source** is set to **GitHub Actions** in **Settings** ➜ **Pages** ➜ **Build and deployment**.
+Your portfolio website will be live shortly. Any time you commit a change to the **main** branch, the website will be automatically updated. If you face any issue viewing the website, double-check the `base` value in the `gitportfolio.config.ts` file. Also, check if **Source** is set to **GitHub Actions** in **Settings** ➜ **Pages** ➜ **Build and deployment**.
 
 If you wish to add a custom domain, no CNAME file is required. Just add it to your repo's **Settings** ➜ **Pages** ➜ **Custom domain**.
 
@@ -103,22 +103,22 @@ As this is a Vite project, you can also host your website to Netlify, Vercel, He
 > If you are going to deploy using **Vercel**, remember to set the `base` as `/`.
 
 ```ts
-// gitprofile.config.ts
+// gitportfolio.config.ts
 {
   base: '/',
   // ...
 }
 ```
 
-[**Not working?**](https://github.com/arifszn/gitprofile/discussions/548)
+[**Not working?**](https://github.com/oricha/gitportfolio/discussions/548)
 
 ### Setting up locally
 
 - Clone the project and change directory.
 
   ```shell
-  git clone https://github.com/arifszn/gitprofile.git
-  cd gitprofile
+  git clone https://github.com/oricha/gitportfolio.git
+  cd gitportfolio
   ```
 
 - Install dependencies.
@@ -133,29 +133,29 @@ As this is a Vite project, you can also host your website to Netlify, Vercel, He
   npm run dev
   ```
 
-- Finally, visit `http://localhost:5173/gitprofile/` from your browser.
+- Finally, visit `http://localhost:5173/gitportfolio/` from your browser.
 
-> Alternatively, you can set up and run the project using Docker with **[Vail](https://github.com/arifszn/vail)**, a powerful tool for local development of JavaScript/TypeScript Apps.
+> Alternatively, you can set up and run the project using Docker with **[Vail](https://github.com/oricha/vail)**, a powerful tool for local development of JavaScript/TypeScript Apps.
 
 ## 🎨 Customization
 
-All the magic happens in the file `gitprofile.config.ts`. Open it and modify it according to your preference.
+All the magic happens in the file `gitportfolio.config.ts`. Open it and modify it according to your preference.
 
 You can leave most of the sections empty if you don't want to display them on your portfolio.
 
 ```ts
-// gitprofile.config.ts
+// gitportfolio.config.ts
 
 const CONFIG = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (This is the only required config)
+    username: 'oricha', // Your GitHub org/user name. (This is the only required config)
   },
   /**
-   * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/arifszn/arifszn.github.io, set base to '/'.
+   * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/oricha/oricha.github.io, set base to '/'.
    * If you are deploying to https://<USERNAME>.github.io/<REPO_NAME>/,
-   * for example your repository is at https://github.com/arifszn/portfolio, then set base to '/portfolio/'.
+   * for example your repository is at https://github.com/oricha/portfolio, then set base to '/portfolio/'.
    */
-  base: '/gitprofile/',
+  base: '/gitportfolio/',
   projects: {
     github: {
       display: true, // Display GitHub projects?
@@ -166,12 +166,12 @@ const CONFIG = {
         limit: 8, // How many projects to display.
         exclude: {
           forks: false, // Forked projects will not be displayed if set to true.
-          projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
+          projects: [], // These projects will not be displayed. example: ['oricha/my-project1', 'oricha/my-project2']
         },
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['arifszn/gitprofile', 'arifszn/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['oricha/gitportfolio', 'oricha/pandora'], // List of repository names to display. example: ['oricha/my-project1', 'oricha/my-project2']
       },
     },
     external: {
@@ -201,7 +201,7 @@ const CONFIG = {
   social: {
     linkedin: 'ariful-alam',
     x: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    mastodon: 'oricha@mastodon.social',
     researchGate: '',
     facebook: '',
     instagram: '',
@@ -211,12 +211,12 @@ const CONFIG = {
     udemy: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: 'oricha',
+    dev: 'oricha',
     stackoverflow: '', // example: '1/jeff-atwood'
     discord: '',
     telegram: '',
-    website: 'https://www.arifszn.com',
+    website: 'https://www.oricha.com',
     phone: '',
     email: 'arifulalamszn@gmail.com',
   },
@@ -301,7 +301,7 @@ const CONFIG = {
   // Display articles from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    username: 'oricha', // to hide blog section, keep it empty
     limit: 3, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
@@ -366,7 +366,7 @@ const CONFIG = {
 
   // Optional Footer. Supports plain text or HTML.
   footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
+      class="text-primary" href="https://github.com/oricha/gitportfolio"
       target="_blank"
       rel="noreferrer"
     >GitProfile</a> and ❤️`,
@@ -384,7 +384,7 @@ There are 37 themes available that can be selected from the dropdown.
 The default theme can be specified.
 
 ```ts
-// gitprofile.config.ts
+// gitportfolio.config.ts
 const CONFIG = {
   // ...
   themeConfig: {
@@ -395,7 +395,7 @@ const CONFIG = {
 ```
 
 <p align="center">
-  <img src="https://github.com/arifszn/gitprofile/assets/45073703/91a2d9e6-67e5-47b4-9752-1881ac0f907f" alt="Theme Dropdown" width="50%">
+  <img src="https://github.com/oricha/gitportfolio/assets/45073703/91a2d9e6-67e5-47b4-9752-1881ac0f907f" alt="Theme Dropdown" width="50%">
 </p>
 
 You can create your own custom theme by modifying the CSS variables in `src/assets/index.css`. Theme `procyon` is defined as a custom theme.
@@ -422,7 +422,7 @@ You can create your own custom theme by modifying the CSS variables in `src/asse
 **GitProfile** supports both GA3 and GA4. If you do not want to use Google Analytics, keep the `id` empty.
 
 ```ts
-// gitprofile.config.ts
+// gitportfolio.config.ts
 const CONFIG = {
   // ...
   googleAnalytics: { id: 'G-XXXXXXXXX' },
@@ -436,7 +436,7 @@ Besides tracking visitors, it will track `click events` on projects and blog pos
 **GitProfile** supports [hotjar](https://www.hotjar.com) to track visitor interaction and behavior. If you do not want to use Hotjar, keep the `id` empty.
 
 ```ts
-// gitprofile.config.ts
+// gitportfolio.config.ts
 const CONFIG = {
   // ...
   hotjar: { id: '', snippetVersion: 6 },
@@ -448,7 +448,7 @@ const CONFIG = {
 You can customize the meta tags for SEO in `seo`.
 
 ```ts
-// gitprofile.config.ts
+// gitportfolio.config.ts
 const CONFIG = {
   // ...
   seo: { title: 'Portfolio of Ariful Alam', description: '', imageURL: '' },
@@ -459,7 +459,7 @@ const CONFIG = {
 
 GitProfile is PWA enabled. The site can be installed as a Progressive Web App. To turn it off, set `enablePWA` to `false`.
 
-![PWA](https://github.com/arifszn/gitprofile/assets/45073703/9dc7cc5c-4262-4445-a7a5-1e3566ef43fa)
+![PWA](https://github.com/oricha/gitportfolio/assets/45073703/9dc7cc5c-4262-4445-a7a5-1e3566ef43fa)
 
 ### Avatar and Bio
 
@@ -470,13 +470,13 @@ Your avatar and bio will be fetched from GitHub automatically.
 You can link your social media services you're using, including LinkedIn, X, Mastodon, ResearchGate, Facebook, Instagram, Reddit, Threads, YouTube, Udemy, Dribbble, Behance, Medium, dev, Stack Overflow, Discord, Telegram, personal website, phone and email.
 
 ```ts
-// gitprofile.config.ts
+// gitportfolio.config.ts
 const CONFIG = {
   // ...
   social: {
     linkedin: 'ariful-alam',
     x: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    mastodon: 'oricha@mastodon.social',
     researchGate: '',
     facebook: '',
     instagram: '',
@@ -503,7 +503,7 @@ const CONFIG = {
 To showcase your skills provide them here.
 
 ```ts
-// gitprofile.config.ts
+// gitportfolio.config.ts
 const CONFIG = {
   // ...
   skills: ['JavaScript', 'React.js'],
@@ -517,7 +517,7 @@ Empty array will hide the skills section.
 Provide your job history in `experiences`.
 
 ```ts
-// gitprofile.config.ts
+// gitportfolio.config.ts
 const CONFIG = {
   // ...
   experiences: [
@@ -546,7 +546,7 @@ Empty array will hide the experience section.
 Provide your education history in `educations`.
 
 ```ts
-// gitprofile.config.ts
+// gitportfolio.config.ts
 const CONFIG = {
   // ...
   educations: [
@@ -573,7 +573,7 @@ Empty array will hide the education section.
 Provide your industry certifications in `certifications`.
 
 ```ts
-// gitprofile.config.ts
+// gitportfolio.config.ts
 const CONFIG = {
   // ...
   certifications: [
@@ -597,7 +597,7 @@ Empty array will hide the certifications section.
 - **Manual Mode:** Choose specific repositories to highlight.
 
 ```ts
-// gitprofile.config.ts
+// gitportfolio.config.ts
 const CONFIG = {
   // ...
   projects: {
@@ -610,12 +610,12 @@ const CONFIG = {
         limit: 8, // How many projects to display.
         exclude: {
           forks: false, // Forked projects will not be displayed if set to true.
-          projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
+          projects: [], // These projects will not be displayed. example: ['oricha/my-project1', 'oricha/my-project2']
         },
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['arifszn/gitprofile', 'arifszn/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['oricha/gitportfolio', 'oricha/pandora'], // List of repository names to display. example: ['oricha/my-project1', 'oricha/my-project2']
       },
     },
   },
@@ -628,7 +628,7 @@ const CONFIG = {
 - **Control over Content:** Provide custom titles, descriptions, images, and links for each external project.
 
 ```ts
-// gitprofile.config.ts
+// gitportfolio.config.ts
 const CONFIG = {
   // ...
   projects: {
@@ -663,7 +663,7 @@ const CONFIG = {
 Provide your academic publishing in `publications`.
 
 ```ts
-// gitprofile.config.ts
+// gitportfolio.config.ts
 const CONFIG = {
   // ...
   publications: [
@@ -687,28 +687,28 @@ Empty array will hide the publications section.
 If you have [medium](https://medium.com) or [dev](https://dev.to) account, you can show your recent blog posts in here just by providing your medium/dev username. You can limit how many posts to display (Max is `10`).
 
 ```ts
-// gitprofile.config.ts
+// gitportfolio.config.ts
 const CONFIG = {
   // ...
-  blog: { source: 'dev', username: 'arifszn', limit: 5 },
+  blog: { source: 'dev', username: 'oricha', limit: 5 },
 };
 ```
 
-![Blog](https://github.com/arifszn/gitprofile/assets/45073703/410124f2-a3c2-48f1-8ec8-0c6fae74ae3d)
+![Blog](https://github.com/oricha/gitportfolio/assets/45073703/410124f2-a3c2-48f1-8ec8-0c6fae74ae3d)
 
-The posts are fetched by [blog.js](https://github.com/arifszn/blog.js).
+The posts are fetched by [blog.js](https://github.com/oricha/blog.js).
 
 ## 💖 Support
 
 <p>You can show your support by starring this project. ★</p>
-<a href="https://github.com/arifszn/gitprofile/stargazers">
-  <img src="https://img.shields.io/github/stars/arifszn/gitprofile?style=social" alt="Github Star">
+<a href="https://github.com/oricha/gitportfolio/stargazers">
+  <img src="https://img.shields.io/github/stars/oricha/gitportfolio?style=social" alt="Github Star">
 </a>
 
 ## 💡 Contribute
 
-To contribute, see the [Contributing guide](https://github.com/arifszn/gitprofile/blob/main/CONTRIBUTING.md).
+To contribute, see the [Contributing guide](https://github.com/oricha/gitportfolio/blob/main/CONTRIBUTING.md).
 
 ## 📄 License
 
-[MIT](https://github.com/arifszn/gitprofile/blob/main/LICENSE)
+[MIT](https://github.com/oricha/gitportfolio/blob/main/LICENSE)
