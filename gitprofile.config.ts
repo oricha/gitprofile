@@ -75,7 +75,7 @@ const CONFIG = {
   social: {
     linkedin: 'oricha',
     x: 'oricha',
-    mastodon: 'oricha@mastodon.social',
+    mastodon: '',
     researchGate: '',
     facebook: '',
     instagram: '',
@@ -86,7 +86,7 @@ const CONFIG = {
     dribbble: '',
     behance: '',
     medium: 'oricha',
-    dev: 'oricha',
+    dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     discord: '',
     telegram: '',

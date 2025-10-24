@@ -19,7 +19,11 @@
     "lint:fix": "eslint . --fix --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "prettier": "prettier --check \"./**/*.{js,jsx,ts,tsx,css,md,json}\"",
     "prettier:fix": "prettier --write \"./**/*.{js,jsx,ts,tsx,css,md,json}\"",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "docker:build": "docker build -t oricha/gitportfolio:latest .",
+    "docker:run": "docker run -p 8080:80 oricha/gitportfolio:latest",
+    "docker:push": "docker push oricha/gitportfolio:latest",
+    "docker:test": "docker run --rm -p 8080:80 oricha/gitportfolio:latest"
   },
   "dependencies": {
     "react": "^19.1.0",
